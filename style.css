@@ -1,0 +1,42 @@
+body{
+    background-color: #F3F1FF;
+}
+.nav-area{
+    width: 1200px;
+}
+.nav-icon{
+    width: 40px;
+    margin-right: 15px;
+}
+.nav-space{
+    margin-right: 20px;
+}
+main{
+  
+    max-width: 870px;
+}
+.top-player-heading{
+    margin: 25px;
+    color: #562EFF;
+}
+.top-player{
+    margin-top: 20px;
+    padding: 20px;
+    
+}
+.top-player img{
+    width: 56px;
+    height: 56px;
+    margin-top: 20px;
+}
+.top-blog-img{
+    width: 377px;
+    height: 117px;
+}
+.course{
+  max-width: 870px; 
+    
+}
+.footer-img{
+    width: 100%;
+}
